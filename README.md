@@ -1,5 +1,10 @@
 # NixOS
 
+References:
+
+- https://github.com/ghuntley/dotfiles-nixos/
+- https://github.com/tycho01/nix-config
+- https://github.com/srid/nix-config
 
 ## Background
 

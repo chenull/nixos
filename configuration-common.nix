@@ -84,9 +84,12 @@ with lib;
   time.timeZone = "Asia/Jakarta";
 
   i18n = {
-    consoleFont = "Lat2-Terminus16";
     defaultLocale = "en_US.UTF-8";
-    consoleUseXkbConfig = true;
+  };
+
+  console = {
+    font = "Lat2-Terminus16";
+    useXkbConfig = true;
   };
 
   programs.gnupg.agent = {
