@@ -1,0 +1,23 @@
+# Nix
+hardware-configuration.nix
+
+*.log
+*.pyc
+__pycache__/
+*.py[cod]
+*.so
+
+var/
+# Vagrant
+.vagrant
+
+# Ansible
+*.retry
+
+# Editors
+.idea
+.vscode
+*.sublime-*
+
+# Mac
+.DS_Store
