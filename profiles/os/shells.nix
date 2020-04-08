@@ -24,7 +24,10 @@
       ohMyZsh = {
         enable = true;
         theme = "agnoster";
-        plugins = [];
+        plugins = [
+          "git"
+          "virtualenv"
+        ];
       };
     };
 

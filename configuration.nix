@@ -5,6 +5,7 @@
     ./hardware-configuration.nix
     ./configuration-common.nix
     ./machines/nixsri.nix
+    /home/nixcloud-webservices
   ];
 
 

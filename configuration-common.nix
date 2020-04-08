@@ -12,6 +12,7 @@ with lib;
 {
   imports = [
     ./services/default.nix
+    ./profiles/applications/vim
     ./users/ayik.nix
   ];
 

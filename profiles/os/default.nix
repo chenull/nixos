@@ -22,7 +22,6 @@
     silver-searcher
     tmux
     unzip
-    vim
     wget
     zip
     zsh
